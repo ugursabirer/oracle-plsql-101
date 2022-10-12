@@ -1,5 +1,7 @@
 # Oracle PL/SQL Development
 
+Oracle SQL Developer kullanarak geliştirdiğim bu çalışmaları [emp_dept_query.sql](https://github.com/ugursabirer/oracle-plsql-101/blob/master/emp_dept_query.sql) isimli SQL dosyayası içerisindeki sorguları Oracle SQL'de, lokalimde bir tablo oluşturmak için kullanarak başladım ve bu tablo üzerinde çalışmaları gerçekleştirdim.
+
 Genel başlıklarıyla öğrendiğim konular:
 
 * PL/SQL Nedir
