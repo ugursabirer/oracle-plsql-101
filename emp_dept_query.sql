@@ -1,4 +1,3 @@
--- Veritabanı kurulduğunda scott şemasında gelen tablolardır...
 create table dept(  
   deptno     number(2,0),  
   dname      varchar2(14),  
