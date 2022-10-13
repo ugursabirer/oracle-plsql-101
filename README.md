@@ -41,7 +41,7 @@ Genel başlıklarıyla öğrendiğim konular:
   * Table Based Records
   * Cursor Based Records
   * User-Defined Records
-* Haya Yakalama (Exceptions)
+* Hata Yakalama (Exceptions)
   * Hata Yakalama Sözdizimi (Exceptions Syntax)
   * System-Defined (Pre-Defined) Exceptions
   * Kullanıcı Tanımlı (User-Defined) Exceptions
